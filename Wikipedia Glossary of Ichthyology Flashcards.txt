@@ -1,4 +1,3 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Abdomen: belly</li>
 <li>Abdominal: pertaining to the belly</li>
 <li>Actinosts: a series of bones at the base of the pectoral rays.</li>
@@ -19,7 +18,6 @@
 <li>Attenuate: tapering to a point, usually in reference to a tail</li>
 <li>Axillary: pertaining to the axilla or upper angle of the pectoral fin</li>
 <li>Axillary process: an enlarged, pointed scale projecting from the insertion of the pectoral or pelvic fin.)</li></ul>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/wiki/Barbel_(anatomy)" title="Barbel (anatomy)">Barbel</a>: an elongated fleshy projection, usually about the head</li>
 <li>Basal: pertaining to the base, at the base</li>
 <li>Base: the part of a projection, (commonly a fin), which is connected to the body</li>
@@ -36,7 +34,6 @@
 <li>Bristle: a stiff hair-like projection</li>
 <li>Buckler: a bony shield</li>
 <li>Bycatch: species other than the target species that are caught incidentally in a trawl</li></ul>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Caniniform: shaped like a canine tooth, conical in form</li>
 <li>Carapace: a horny or bony covering encasing the body</li>
 <li>Cardiform: small set conical outgrowths in a close set patch or band; usually refers to a band of close set small conical teeth</li>
@@ -59,7 +56,6 @@
 <li>Cutaneous: pertaining to the skin</li>
 <li><a href="/wiki/Ctenoid_scale" class="mw-redirect" title="Ctenoid scale">Ctenoid scale</a>: rough-edged scale</li>
 <li><a href="/wiki/Cycloid_scale" class="mw-redirect" title="Cycloid scale">Cycloid scale</a>: smooth-edged scale</li></ul>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Deciduous: temporary, falling off</li>
 <li>Demersal: living on or near the sea bed</li>
 <li>Dendritic: resembling a tree or shrub</li>
@@ -75,7 +71,6 @@
 <li>Dorsum: the upper (dorsal) surface of the head or body</li>
 <li><a href="/wiki/Fish_anatomy#Fins" title="Fish anatomy">Dorsal fin</a>: the fin on a fish's back</li>
 <li>Dorsal fin origin: the most anterior point of the dorsal fin base</li></ul>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Elasmobranchs: cartilaginous fishes - sharks, rays and allies</li>
 <li>Electrocyte: a cell that generates electricity</li>
 <li>Elongate: extended, drawn out</li>
@@ -87,7 +82,6 @@
 <li>Erectile: capable of being raised or erected, often referring to spines</li>
 <li><a href="/wiki/Anglerfish" title="Anglerfish">Esca</a>: the lure or "bait" on the end of the illicium of some anglerfishes and relatives</li>
 <li>Estuarine: living in estuaries</li></ul>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Falcate: scythe-shaped, long, narrow, and curved</li>
 <li>Falciform: curved like a scythe</li>
 <li>Filament: a slender or thread-like structure</li>
@@ -100,7 +94,6 @@
 <li>Frontal ridge: a ridge running along the top of the head along the midline</li>
 <li>Furcate: forked</li>
 <li>Fusiform: tapering towards both ends</li></ul>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/wiki/Ganoid_scale" class="mw-redirect" title="Ganoid scale">Ganoid scales</a>: Armor-like scales coated with ganoin found in gars and bichirs.</li>
 <li><a href="/wiki/Genital_papilla" title="Genital papilla">Genital papilla</a>: a small, fleshy tube behind the anus in some fishes, from which the sperm or eggs are released; the sex of a fish often can be determined by the shape of its papilla.</li>
 <li>Gill arches: the bony arches to which the gills are attached</li>
@@ -114,7 +107,6 @@
 <li><a href="/wiki/Gonopodium" class="mw-redirect" title="Gonopodium">Gonopodium</a>: a modification of the anal fin of males of certain live-bearing species in the families <a href="/wiki/Anablepidae" title="Anablepidae">Anablepidae</a> and <a href="/wiki/Poeciliidae" title="Poeciliidae">Poeciliidae</a>. It is used to transfer reproductive products to the female during mating.</li>
 <li>Gravid: Sexually ripe</li>
 <li>Gular region: pertaining to the region behind the chin and between the sides of the lower jaw</li></ul>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Head length: the distance from the tip of the snout (or upper lip) to the most posterior point of the opercular margin</li>
 <li>Heterocercal fin: not symmetric (sharks)</li>
 <li>Homocercal fin: symmetric</li>
@@ -123,7 +115,6 @@
 <li>Hyaline: translucent or transparent</li>
 <li>Hypural joint: the joint between the caudal fin and the last of the vertebrae</li>
 <li>Hypural plate: the flattened bony plate at the posterior end of the vertebral column, formed from parts of the posterior vertebrae.</li></ul>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Ichthyoplankton: fish eggs and larvae</li>
 <li><a href="/wiki/Anglerfish" title="Anglerfish">Illicium</a>: a "fishing rod-like" appendage on the head, usually a modified dorsal fin spine</li>
 <li>Imbricate: overlapping, like the shingles on a roof</li>
@@ -135,12 +126,9 @@
 <li>Intromittent organ: a structure to facilitate sperm transfer in some internally fertilizating species</li>
 <li>Iris lappet: a fleshy flap or lobe-like structure in the eye, short and rounded, simple or multiply branched.</li>
 <li>Isthmus: the fleshy projection of the body separating the gill openings</li></ul>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Jugular: pertaining to the throat</li>
 <li>Juxtaposed: placed near together</li></ul>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Kidneys: organs involved in excretion and regulation of water balance</li></ul>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Lanceolate: spear-shaped, gradually tapering toward the extremity</li>
 <li>Labial: pertaining to the lips</li>
 <li>Labial furrows: shallow grooves around the lips</li>
@@ -153,7 +141,6 @@
 <li>Lunate: shaped like a crescent moon, with long upper and lower lobes</li></ul>
 <p>bod as did com 5
 </p>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Maxilla, Maxillary: the upper jaw, or pertaining thereto</li>
 <li>Maxillae, Maxillaries: the hindmost bones of the upper jaw; preceded by the premaxillaries</li>
 <li>Median, medially: pertaining to the middle</li>
@@ -170,14 +157,12 @@
 <li>Muciferous: producing or containing mucous or slime</li>
 <li><a href="/wiki/Myotome" title="Myotome">Myotomes</a>: blocks of lateral trunk muscles</li>
 <li><a href="/wiki/Myomere" title="Myomere">Myomeres</a>: blocks of muscle corresponding to number of vertebrae, easily seen in larval fishes and used for identifying specimens.</li></ul>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Nape: upper surface of the body behind the head and before the dorsal fin</li>
 <li>Nasal: pertaining to the nostrils</li>
 <li>Nasoral: between the nostrils and mouth</li>
 <li>Nictitating membrane: an inner eyelid</li>
 <li><a href="/wiki/Notochord" title="Notochord">Notochord</a>: a rudimentary of embryonic spinal column</li>
 <li>Nuchal: pertaining to the nape</li></ul>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Obsolete: faintly marked, scarcely evident</li>
 <li>Obtuse: blunt</li>
 <li>Occipital: pertaining to the posterior part of the skull</li>
@@ -193,7 +178,6 @@
 <li>Origin: the most anterior point of a fin base</li>
 <li>Osseus: bony</li>
 <li>Ovate: egg-shaped</li></ul>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Palate: the roof of the mouth</li>
 <li><a href="/wiki/Palatine_bone" title="Palatine bone">Palatines</a>: the bones on each side of the palate</li>
 <li>Papilla (papillae): a small fleshy projection(s)</li>
@@ -225,13 +209,11 @@
 <li>Pseudoclasper: stiff ossified lobes or prongs in the tip of the intromittent organ</li>
 <li><a href="/wiki/Pterygiophore" class="mw-redirect" title="Pterygiophore">Pterygiophore</a>: an internal cartilage or bone that supports a median fin ray or spine</li>
 <li>Pyloric caecae: finger-like pouches connected with the alimentary canal (the gut)</li></ul>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=17" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Ramus: one branch or one half of the jaw</li>
 <li>Ray: a jointed, segmented rod which supports a fin</li>
 <li>Retrose: turned backward</li>
 <li>Rostrum: a projecting snout or beak</li>
 <li>Rugose: rough</li></ul>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=18" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Scalation: pertains to the pattern/arrangement/presence of scales</li>
 <li><a href="/wiki/Fish_anatomy#Skin" title="Fish anatomy">Scute</a>: any external horny or bony plate</li>
 <li>Serrate: notched like a saw</li>
@@ -257,7 +239,6 @@
 <li><a href="/wiki/Swimbladder" class="mw-redirect" title="Swimbladder">Swimbladder</a>: a sac filled with gas, lying beneath the backbone</li>
 <li>Symphysis: point of junction of the two sides of the jaw</li>
 <li>Symmetrical: similarly arranged on both sides</li></ul>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=19" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/wiki/Teleost" title="Teleost">Teleost</a>: a member of Teleostei, an infraclass containing most of the <a href="/wiki/Actinopterygii" title="Actinopterygii">bony fishes</a></li>
 <li>Terminal: at the end</li>
 <li><a href="/wiki/Tessellation" title="Tessellation">Tessellated</a>: marked with little checks or squares, like tiles</li>
@@ -272,10 +253,8 @@
 <li><a href="/wiki/Tubercle" title="Tubercle">Tubercle</a>: a small, usually hard excrescence or lump</li>
 <li>Tubiform, tubuliform: resembling a tube</li>
 <li>Type locality: the location from which the <a href="/wiki/Type_(zoology)" class="mw-redirect" title="Type (zoology)">type</a> specimen was collected.</li></ul>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=20" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Undulated: waved</li>
 <li>Urogenital papilla: a papilla through which the urinary waste and gametes leave the body</li></ul>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=21" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li>Vent: the external opening of the alimentary canal, the <a href="/wiki/Anus" title="Anus">anus</a></li>
 <li><a href="/wiki/Anatomical_terms_of_location#General_usage" title="Anatomical terms of location">Ventral</a>: pertaining to the abdominal or lower surface</li>
 <li><a href="/wiki/Fish_anatomy#Fins" title="Fish anatomy">Ventral fins</a>: paired fins behind or below the pectoral fins</li>
@@ -284,5 +263,4 @@
 <li>Villiform teeth: small, slender teeth forming velvety bands</li>
 <li><a href="/wiki/Vomer_bone" class="mw-redirect" title="Vomer bone">Vomer</a>: a bone forming the front part of the roof of the mouth</li>
 <li>Vomerine teeth: teeth on the vomer (see above)</li></ul>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_ichthyology&amp;action=edit&amp;section=22" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/wiki/Weberian_apparatus" title="Weberian apparatus">Weberian apparatus</a>: An adaptation found in <a href="/wiki/Ostariophysi" title="Ostariophysi">Ostariophysi</a> to improve hearing; includes the Weberian ossicles.</li></ul>

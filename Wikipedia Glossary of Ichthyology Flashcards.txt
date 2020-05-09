@@ -3,12 +3,12 @@
 <li>Actinosts: a series of bones at the base of the pectoral rays.</li>
 <li>Acuminate: tapering gradually to a point</li>
 <li>Acute: sharp, pointed</li>
-<li><a href=""/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Adipose fin</a>: a small fleshy fin which lacks fin rays.</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Adipose fin</a>: a small fleshy fin which lacks fin rays.</li>
 <li>Adnate: joined together</li>
 <li>Adpressed: pressed against the body</li>
-<li><a href=""/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Anal fin</a>: the fin on the median line behind the vent</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Anal fin</a>: the fin on the median line behind the vent</li>
 <li>Anal fin origin: the most anterior point of the anal fin base</li>
-<li><a href=""/wiki/Andropodium"" class=""mw-redirect"" title=""Andropodium"">Andropodium</a>: a modification of the anal fin of males of certain live-bearing species in the family <a href=""/wiki/Goodeidae"" title=""Goodeidae"">Goodeidae</a>. It is used to transfer reproductive products to the female during mating.</li>
+<li><a href=""https://en.wikipedia.org/wiki/Andropodium"" class=""mw-redirect"" title=""Andropodium"">Andropodium</a>: a modification of the anal fin of males of certain live-bearing species in the family <a href=""https://en.wikipedia.org/wiki/Goodeidae"" title=""Goodeidae"">Goodeidae</a>. It is used to transfer reproductive products to the female during mating.</li>
 <li>Ankylosed: grown firmly together</li>
 <li>Anterior: relating to the front portion</li>
 <li>Antrose: turned forward</li>
@@ -18,11 +18,11 @@
 <li>Attenuate: tapering to a point, usually in reference to a tail</li>
 <li>Axillary: pertaining to the axilla or upper angle of the pectoral fin</li>
 <li>Axillary process: an enlarged, pointed scale projecting from the insertion of the pectoral or pelvic fin.)</li></ul>
-<ul><li><a href=""/wiki/Barbel_(anatomy)"" title=""Barbel (anatomy)"">Barbel</a>: an elongated fleshy projection, usually about the head</li>
+<ul><li><a href=""https://en.wikipedia.org/wiki/Barbel_(anatomy)"" title=""Barbel (anatomy)"">Barbel</a>: an elongated fleshy projection, usually about the head</li>
 <li>Basal: pertaining to the base, at the base</li>
 <li>Base: the part of a projection, (commonly a fin), which is connected to the body</li>
-<li><a href=""/wiki/Pelagic_zone"" title=""Pelagic zone"">Bathypelagic</a>: living at a depth between 1000 m and 4000 m, but well off the bottom</li>
-<li><a href=""/wiki/Benthic_zone"" title=""Benthic zone"">Benthic</a>: bottom-dwelling, living on the sea bed</li>
+<li><a href=""https://en.wikipedia.org/wiki/Pelagic_zone"" title=""Pelagic zone"">Bathypelagic</a>: living at a depth between 1000 m and 4000 m, but well off the bottom</li>
+<li><a href=""https://en.wikipedia.org/wiki/Benthic_zone"" title=""Benthic zone"">Benthic</a>: bottom-dwelling, living on the sea bed</li>
 <li>Benthopelagic: pertaining to fishes that swim just above the seabed at depths below about 200 m (the edge of the continental shelf)</li>
 <li>Bicuspid: having two cusps or points</li>
 <li>Bifid: cleft in two</li>
@@ -40,28 +40,28 @@
 <li>Carinate: keeled, having a ridge along the middle line</li>
 <li>Caruncle: a fleshy outgrowth</li>
 <li>Caudal: pertaining to the tail</li>
-<li><a href=""/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Caudal fin</a>: the tail fin</li>
-<li><a href=""/wiki/Fish_anatomy"" title=""Fish anatomy"">Caudal peduncle</a>: the region of the body between the end of the anal fin and the base of the caudal fin</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Caudal fin</a>: the tail fin</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy"" title=""Fish anatomy"">Caudal peduncle</a>: the region of the body between the end of the anal fin and the base of the caudal fin</li>
 <li>Ciliated: fringed with eyelash-like projections</li>
 <li>Cirri: small, thin appendages, often subdivided into branches.</li>
 <li>Cirrus: singular of cirri (see above)</li>
-<li><a href=""/wiki/Fish_anatomy#Internal_fertilization"" title=""Fish anatomy"">Claspers</a>: the external reproductive organs of male sharks, rays and chimaeras</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy#Internal_fertilization"" title=""Fish anatomy"">Claspers</a>: the external reproductive organs of male sharks, rays and chimaeras</li>
 <li>Coalesced: grown together</li>
 <li>Compressed: flattened laterally</li>
 <li>Confluent: joined together</li>
 <li>Conical: cone shaped, with a cylindrical base and a pointed tip</li>
 <li>Corselet: a scaly covering behind the pectorals of some fishes</li>
-<li><a href=""/wiki/Countershading"" title=""Countershading"">Countershading</a>: body colouration which is dark above and lighter below</li>
+<li><a href=""https://en.wikipedia.org/wiki/Countershading"" title=""Countershading"">Countershading</a>: body colouration which is dark above and lighter below</li>
 <li>Crenulate: having the edge slightly scalloped</li>
 <li>Cutaneous: pertaining to the skin</li>
-<li><a href=""/wiki/Ctenoid_scale"" class=""mw-redirect"" title=""Ctenoid scale"">Ctenoid scale</a>: rough-edged scale</li>
-<li><a href=""/wiki/Cycloid_scale"" class=""mw-redirect"" title=""Cycloid scale"">Cycloid scale</a>: smooth-edged scale</li></ul>
+<li><a href=""https://en.wikipedia.org/wiki/Ctenoid_scale"" class=""mw-redirect"" title=""Ctenoid scale"">Ctenoid scale</a>: rough-edged scale</li>
+<li><a href=""https://en.wikipedia.org/wiki/Cycloid_scale"" class=""mw-redirect"" title=""Cycloid scale"">Cycloid scale</a>: smooth-edged scale</li></ul>
 <ul><li>Deciduous: temporary, falling off</li>
 <li>Demersal: living on or near the sea bed</li>
 <li>Dendritic: resembling a tree or shrub</li>
 <li>Denature: the ""unfolding"" of a protein resulting in a lessening of its biological properties. In the case of some fish toxins, denaturing with hot water can lessen painful symptoms.</li>
 <li>Dentate: with tooth-like projections</li>
-<li>Denticle, denticulate: a little tooth, having an edge with small projecting teeth, the <a href=""/wiki/Placoid_scale"" class=""mw-redirect"" title=""Placoid scale"">placoid scales</a> of cartilaginous fishes</li>
+<li>Denticle, denticulate: a little tooth, having an edge with small projecting teeth, the <a href=""https://en.wikipedia.org/wiki/Placoid_scale"" class=""mw-redirect"" title=""Placoid scale"">placoid scales</a> of cartilaginous fishes</li>
 <li>Depressed: flattened from top to bottom</li>
 <li>Dermal: pertaining to the skin</li>
 <li>Dewlap: a fold of loose skin</li>
@@ -69,7 +69,7 @@
 <li>Distal: remote from the point of attachment</li>
 <li>Dorsal: pertaining to the back</li>
 <li>Dorsum: the upper (dorsal) surface of the head or body</li>
-<li><a href=""/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Dorsal fin</a>: the fin on a fish's back</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Dorsal fin</a>: the fin on a fish's back</li>
 <li>Dorsal fin origin: the most anterior point of the dorsal fin base</li></ul>
 <ul><li>Elasmobranchs: cartilaginous fishes - sharks, rays and allies</li>
 <li>Electrocyte: a cell that generates electricity</li>
@@ -78,9 +78,9 @@
 <li>Endemic: restricted to a particular region, for example endemic to Australia</li>
 <li>Entire: with a smooth margin</li>
 <li>Epibenthic: referring to organisms living on the bottom surface</li>
-<li><a href=""/wiki/Pelagic_zone"" title=""Pelagic zone"">Epipelagic</a>: referring to organisms living in the region between the surface and 200 m depth</li>
+<li><a href=""https://en.wikipedia.org/wiki/Pelagic_zone"" title=""Pelagic zone"">Epipelagic</a>: referring to organisms living in the region between the surface and 200 m depth</li>
 <li>Erectile: capable of being raised or erected, often referring to spines</li>
-<li><a href=""/wiki/Anglerfish"" title=""Anglerfish"">Esca</a>: the lure or ""bait"" on the end of the illicium of some anglerfishes and relatives</li>
+<li><a href=""https://en.wikipedia.org/wiki/Anglerfish"" title=""Anglerfish"">Esca</a>: the lure or ""bait"" on the end of the illicium of some anglerfishes and relatives</li>
 <li>Estuarine: living in estuaries</li></ul>
 <ul><li>Falcate: scythe-shaped, long, narrow, and curved</li>
 <li>Falciform: curved like a scythe</li>
@@ -88,35 +88,35 @@
 <li>Filiform: thread-like</li>
 <li>Fimbriate: fringed at the margin</li>
 <li>Finfold: embryonic tissue which develops into a fin</li>
-<li><a href=""/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Finlet</a>: a small fin, positioned behind the dorsal or anal fins, that is supported by a ray or rays</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Finlet</a>: a small fin, positioned behind the dorsal or anal fins, that is supported by a ray or rays</li>
 <li>Fluviatile: living in rivers</li>
 <li>Free rear tips (of fins): the posterior tip of the fin that is closest to the most posterior point of the fin base</li>
 <li>Frontal ridge: a ridge running along the top of the head along the midline</li>
 <li>Furcate: forked</li>
 <li>Fusiform: tapering towards both ends</li></ul>
-<ul><li><a href=""/wiki/Ganoid_scale"" class=""mw-redirect"" title=""Ganoid scale"">Ganoid scales</a>: Armor-like scales coated with ganoin found in gars and bichirs.</li>
-<li><a href=""/wiki/Genital_papilla"" title=""Genital papilla"">Genital papilla</a>: a small, fleshy tube behind the anus in some fishes, from which the sperm or eggs are released; the sex of a fish often can be determined by the shape of its papilla.</li>
+<ul><li><a href=""https://en.wikipedia.org/wiki/Ganoid_scale"" class=""mw-redirect"" title=""Ganoid scale"">Ganoid scales</a>: Armor-like scales coated with ganoin found in gars and bichirs.</li>
+<li><a href=""https://en.wikipedia.org/wiki/Genital_papilla"" title=""Genital papilla"">Genital papilla</a>: a small, fleshy tube behind the anus in some fishes, from which the sperm or eggs are released; the sex of a fish often can be determined by the shape of its papilla.</li>
 <li>Gill arches: the bony arches to which the gills are attached</li>
 <li>Gill cover: or bony flap that covers the gills, the operculum</li>
 <li>Gill filaments: a series of projections along the posterior edge of the gill arch, the site of gas exchange</li>
 <li>Gill membranes: membranes covering the gill openings, attached to the branchiostegals</li>
 <li>Gill opening: opening behind each operculum, leading to the gills</li>
 <li>Gill rakers: a series of appendages along the anterior edges of the gill arches</li>
-<li><a href=""/wiki/Gill"" title=""Gill"">Gills</a>, Branchiae: organs for breathing the oxygen contained in water, and for excreting carbon dioxide from the blood</li>
+<li><a href=""https://en.wikipedia.org/wiki/Gill"" title=""Gill"">Gills</a>, Branchiae: organs for breathing the oxygen contained in water, and for excreting carbon dioxide from the blood</li>
 <li>Glossohyal: the tongue bone</li>
-<li><a href=""/wiki/Gonopodium"" class=""mw-redirect"" title=""Gonopodium"">Gonopodium</a>: a modification of the anal fin of males of certain live-bearing species in the families <a href=""/wiki/Anablepidae"" title=""Anablepidae"">Anablepidae</a> and <a href=""/wiki/Poeciliidae"" title=""Poeciliidae"">Poeciliidae</a>. It is used to transfer reproductive products to the female during mating.</li>
+<li><a href=""https://en.wikipedia.org/wiki/Gonopodium"" class=""mw-redirect"" title=""Gonopodium"">Gonopodium</a>: a modification of the anal fin of males of certain live-bearing species in the families <a href=""https://en.wikipedia.org/wiki/Anablepidae"" title=""Anablepidae"">Anablepidae</a> and <a href=""https://en.wikipedia.org/wiki/Poeciliidae"" title=""Poeciliidae"">Poeciliidae</a>. It is used to transfer reproductive products to the female during mating.</li>
 <li>Gravid: Sexually ripe</li>
 <li>Gular region: pertaining to the region behind the chin and between the sides of the lower jaw</li></ul>
 <ul><li>Head length: the distance from the tip of the snout (or upper lip) to the most posterior point of the opercular margin</li>
 <li>Heterocercal fin: not symmetric (sharks)</li>
 <li>Homocercal fin: symmetric</li>
-<li><a href=""/wiki/Homology_(biology)"" title=""Homology (biology)"">Homology</a>: similarity of features based on common evolutionary descent</li>
+<li><a href=""https://en.wikipedia.org/wiki/Homology_(biology)"" title=""Homology (biology)"">Homology</a>: similarity of features based on common evolutionary descent</li>
 <li>Hyperostosis: a condition resulting in enlargement of areas of bone.</li>
 <li>Hyaline: translucent or transparent</li>
 <li>Hypural joint: the joint between the caudal fin and the last of the vertebrae</li>
 <li>Hypural plate: the flattened bony plate at the posterior end of the vertebral column, formed from parts of the posterior vertebrae.</li></ul>
 <ul><li>Ichthyoplankton: fish eggs and larvae</li>
-<li><a href=""/wiki/Anglerfish"" title=""Anglerfish"">Illicium</a>: a ""fishing rod-like"" appendage on the head, usually a modified dorsal fin spine</li>
+<li><a href=""https://en.wikipedia.org/wiki/Anglerfish"" title=""Anglerfish"">Illicium</a>: a ""fishing rod-like"" appendage on the head, usually a modified dorsal fin spine</li>
 <li>Imbricate: overlapping, like the shingles on a roof</li>
 <li>Incised: with a notched margin (often referring to fin membranes)</li>
 <li>Incisors: the front or cutting teeth</li>
@@ -134,7 +134,7 @@
 <li>Labial furrows: shallow grooves around the lips</li>
 <li>Labial papillae: small fleshy projections around the lips</li>
 <li>Lateral: at or toward the side</li>
-<li><a href=""/wiki/Lateral_line"" title=""Lateral line"">Lateral line</a>: a series of muciferous tubes forming a raised line along the side of the body</li>
+<li><a href=""https://en.wikipedia.org/wiki/Lateral_line"" title=""Lateral line"">Lateral line</a>: a series of muciferous tubes forming a raised line along the side of the body</li>
 <li>Leptocephalic: tallness and narrowness of the skull - in fish usually refers to ""elongate highly compressed transparent, ribbon-like larval stage"" (source FishBase glossary)</li>
 <li>Liver: a digestive and storage organ</li>
 <li>Longitudinal series (scales): the number of scale rows above the lateral line from the first pored lateral line scale to the caudal fin base.</li>
@@ -146,60 +146,60 @@
 <li>Median, medially: pertaining to the middle</li>
 <li>Median fins: fins located on the median line of the fish; the dorsal, anal and caudal fins</li>
 <li>Mediolateral: between the middle and the sides</li>
-<li><a href=""/wiki/Melanophore"" class=""mw-redirect"" title=""Melanophore"">Melanophore</a>: A cell (chromatophore) containing melanin or other black pigment</li>
+<li><a href=""https://en.wikipedia.org/wiki/Melanophore"" class=""mw-redirect"" title=""Melanophore"">Melanophore</a>: A cell (chromatophore) containing melanin or other black pigment</li>
 <li>Mesocoracoid: a bone of the pectoral arch or shoulder girdle</li>
-<li><a href=""/wiki/Pelagic_zone"" title=""Pelagic zone"">Mesopelagic</a>: refers to the region of the open ocean between 200 m and 1000 m in depth</li>
+<li><a href=""https://en.wikipedia.org/wiki/Pelagic_zone"" title=""Pelagic zone"">Mesopelagic</a>: refers to the region of the open ocean between 200 m and 1000 m in depth</li>
 <li>Mesopelagic fishes: fishes that live in the mesopelagic zone</li>
 <li>Midwater: the middle stratum of water, well below the surface and well above the seabed. See also mesopelagic.</li>
 <li>Midwater fishes: fishes that live in the midwater</li>
 <li>Molars: blunt and rounded grinding teeth</li>
-<li><a href=""/wiki/Morphology_(biology)"" title=""Morphology (biology)"">Morphology</a>: form and structure of an organism</li>
+<li><a href=""https://en.wikipedia.org/wiki/Morphology_(biology)"" title=""Morphology (biology)"">Morphology</a>: form and structure of an organism</li>
 <li>Muciferous: producing or containing mucous or slime</li>
-<li><a href=""/wiki/Myotome"" title=""Myotome"">Myotomes</a>: blocks of lateral trunk muscles</li>
-<li><a href=""/wiki/Myomere"" title=""Myomere"">Myomeres</a>: blocks of muscle corresponding to number of vertebrae, easily seen in larval fishes and used for identifying specimens.</li></ul>
+<li><a href=""https://en.wikipedia.org/wiki/Myotome"" title=""Myotome"">Myotomes</a>: blocks of lateral trunk muscles</li>
+<li><a href=""https://en.wikipedia.org/wiki/Myomere"" title=""Myomere"">Myomeres</a>: blocks of muscle corresponding to number of vertebrae, easily seen in larval fishes and used for identifying specimens.</li></ul>
 <ul><li>Nape: upper surface of the body behind the head and before the dorsal fin</li>
 <li>Nasal: pertaining to the nostrils</li>
 <li>Nasoral: between the nostrils and mouth</li>
 <li>Nictitating membrane: an inner eyelid</li>
-<li><a href=""/wiki/Notochord"" title=""Notochord"">Notochord</a>: a rudimentary of embryonic spinal column</li>
+<li><a href=""https://en.wikipedia.org/wiki/Notochord"" title=""Notochord"">Notochord</a>: a rudimentary of embryonic spinal column</li>
 <li>Nuchal: pertaining to the nape</li></ul>
 <ul><li>Obsolete: faintly marked, scarcely evident</li>
 <li>Obtuse: blunt</li>
 <li>Occipital: pertaining to the posterior part of the skull</li>
 <li>Ocellus: an eye-like spot</li>
 <li>Ocular: pertaining to the eye</li>
-<li><a href=""/wiki/Odontode"" title=""Odontode"">Odontode</a>: a dermal tooth</li>
-<li><a href=""/wiki/Oesophagus"" class=""mw-redirect"" title=""Oesophagus"">Oesophagus</a>: the gullet</li>
+<li><a href=""https://en.wikipedia.org/wiki/Odontode"" title=""Odontode"">Odontode</a>: a dermal tooth</li>
+<li><a href=""https://en.wikipedia.org/wiki/Oesophagus"" class=""mw-redirect"" title=""Oesophagus"">Oesophagus</a>: the gullet</li>
 <li>Opercle: the large bone which forms the upper posterior part of the operculum</li>
-<li><a href=""/wiki/Operculum_(fish)"" title=""Operculum (fish)"">operculum</a>: the bony flap that covers the gills</li>
+<li><a href=""https://en.wikipedia.org/wiki/Operculum_(fish)"" title=""Operculum (fish)"">operculum</a>: the bony flap that covers the gills</li>
 <li>Opercular: pertaining to the operculum</li>
 <li>Opercular spine: spine projecting from the operculum (view the fish figure)</li>
-<li><a href=""/wiki/Orbit_(anatomy)"" title=""Orbit (anatomy)"">Orbit</a>: the eye socket</li>
+<li><a href=""https://en.wikipedia.org/wiki/Orbit_(anatomy)"" title=""Orbit (anatomy)"">Orbit</a>: the eye socket</li>
 <li>Origin: the most anterior point of a fin base</li>
 <li>Osseus: bony</li>
 <li>Ovate: egg-shaped</li></ul>
 <ul><li>Palate: the roof of the mouth</li>
-<li><a href=""/wiki/Palatine_bone"" title=""Palatine bone"">Palatines</a>: the bones on each side of the palate</li>
+<li><a href=""https://en.wikipedia.org/wiki/Palatine_bone"" title=""Palatine bone"">Palatines</a>: the bones on each side of the palate</li>
 <li>Papilla (papillae): a small fleshy projection(s)</li>
 <li>Papillose: covered with papillae</li>
 <li>Pectoral: pertaining to the breast</li>
-<li><a href=""/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Pectoral fins</a>: the anterior or uppermost of the paired fins, which correspond to the anterior limbs of the higher vertebrates</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Pectoral fins</a>: the anterior or uppermost of the paired fins, which correspond to the anterior limbs of the higher vertebrates</li>
 <li>Pectoral girdle: the bones to which the pectoral fin is attached</li>
-<li><a href=""/wiki/Fish_anatomy#Types_of_fin"" title=""Fish anatomy"">Peduncle</a>: usually referred to as the caudal peduncle, the region of the body between the end of the anal fin and the base of the caudal fin</li>
-<li><a href=""/wiki/Pelagic_zone"" title=""Pelagic zone"">Pelagic</a>: living on or in the open seas</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy#Types_of_fin"" title=""Fish anatomy"">Peduncle</a>: usually referred to as the caudal peduncle, the region of the body between the end of the anal fin and the base of the caudal fin</li>
+<li><a href=""https://en.wikipedia.org/wiki/Pelagic_zone"" title=""Pelagic zone"">Pelagic</a>: living on or in the open seas</li>
 <li>Pelvic girdle: the bones to which the ventral fins are attached</li>
-<li><a href=""/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Pelvic fins</a>: paired fins behind or below the pectoral fins</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Pelvic fins</a>: paired fins behind or below the pectoral fins</li>
 <li>Pharyngeal bones: bones behind the gills in the oesophagus or gullet</li>
-<li><a href=""/wiki/Pharyngeal_teeth"" title=""Pharyngeal teeth"">Pharyngeal teeth</a>: teeth within the pharynx</li>
+<li><a href=""https://en.wikipedia.org/wiki/Pharyngeal_teeth"" title=""Pharyngeal teeth"">Pharyngeal teeth</a>: teeth within the pharynx</li>
 <li>Pharynx: the back part of the throat, into which the gill slits open</li>
 <li>Photophore: a circular light-producing organ on the surface of a fish</li>
-<li><a href=""/wiki/Placoid_scale"" class=""mw-redirect"" title=""Placoid scale"">Placoid scales</a>: Teeth-like scales found in sharks and rays.</li>
+<li><a href=""https://en.wikipedia.org/wiki/Placoid_scale"" class=""mw-redirect"" title=""Placoid scale"">Placoid scales</a>: Teeth-like scales found in sharks and rays.</li>
 <li>Posterior: towards the hind end of the fish</li>
 <li>Postorbital: behind the eye</li>
 <li>Precaudal: anterior to the tail portion</li>
 <li>Premaxillaries: two bones forming the front portion of the upper jaw</li>
 <li>Preocular spine: spine positioned above and in front of the eye</li>
-<li><a href=""/wiki/Preopercle"" class=""mw-redirect"" title=""Preopercle"">Preopercle</a>, preoperculum: the bone between the cheek and the gill cover</li>
+<li><a href=""https://en.wikipedia.org/wiki/Preopercle"" class=""mw-redirect"" title=""Preopercle"">Preopercle</a>, preoperculum: the bone between the cheek and the gill cover</li>
 <li>Preopercular spine: spine projecting from the preopercule (see preopercle) (view the fish figure)</li>
 <li>Preorbital: the area under and in front of the eyes</li>
 <li>Protractile: capable of extending forward</li>
@@ -207,7 +207,7 @@
 <li>Proximal: nearest</li>
 <li>Pseudobranchiae: small gills developed on the inner side of the gill cover</li>
 <li>Pseudoclasper: stiff ossified lobes or prongs in the tip of the intromittent organ</li>
-<li><a href=""/wiki/Pterygiophore"" class=""mw-redirect"" title=""Pterygiophore"">Pterygiophore</a>: an internal cartilage or bone that supports a median fin ray or spine</li>
+<li><a href=""https://en.wikipedia.org/wiki/Pterygiophore"" class=""mw-redirect"" title=""Pterygiophore"">Pterygiophore</a>: an internal cartilage or bone that supports a median fin ray or spine</li>
 <li>Pyloric caecae: finger-like pouches connected with the alimentary canal (the gut)</li></ul>
 <ul><li>Ramus: one branch or one half of the jaw</li>
 <li>Ray: a jointed, segmented rod which supports a fin</li>
@@ -215,7 +215,7 @@
 <li>Rostrum: a projecting snout or beak</li>
 <li>Rugose: rough</li></ul>
 <ul><li>Scalation: pertains to the pattern/arrangement/presence of scales</li>
-<li><a href=""/wiki/Fish_anatomy#Skin"" title=""Fish anatomy"">Scute</a>: any external horny or bony plate</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy#Skin"" title=""Fish anatomy"">Scute</a>: any external horny or bony plate</li>
 <li>Serrate: notched like a saw</li>
 <li>Setae: bristles or hairs</li>
 <li>Soft dorsal: the posterior part of the dorsal fin which is composed of jointed rays</li>
@@ -236,31 +236,31 @@
 <li>Supraorbital tentacle: a flap or filament of skin positioned above the eye</li>
 <li>Suprascapular: a bone uniting the shoulder girdle with the skull</li>
 <li>Suture: the line of union of two bones or plates</li>
-<li><a href=""/wiki/Swimbladder"" class=""mw-redirect"" title=""Swimbladder"">Swimbladder</a>: a sac filled with gas, lying beneath the backbone</li>
+<li><a href=""https://en.wikipedia.org/wiki/Swimbladder"" class=""mw-redirect"" title=""Swimbladder"">Swimbladder</a>: a sac filled with gas, lying beneath the backbone</li>
 <li>Symphysis: point of junction of the two sides of the jaw</li>
 <li>Symmetrical: similarly arranged on both sides</li></ul>
-<ul><li><a href=""/wiki/Teleost"" title=""Teleost"">Teleost</a>: a member of Teleostei, an infraclass containing most of the <a href=""/wiki/Actinopterygii"" title=""Actinopterygii"">bony fishes</a></li>
+<ul><li><a href=""https://en.wikipedia.org/wiki/Teleost"" title=""Teleost"">Teleost</a>: a member of Teleostei, an infraclass containing most of the <a href=""https://en.wikipedia.org/wiki/Actinopterygii"" title=""Actinopterygii"">bony fishes</a></li>
 <li>Terminal: at the end</li>
-<li><a href=""/wiki/Tessellation"" title=""Tessellation"">Tessellated</a>: marked with little checks or squares, like tiles</li>
-<li><a href=""/wiki/Thorax"" title=""Thorax"">Thoracic</a>: pertaining to the chest</li>
-<li><a href=""/wiki/Thorax"" title=""Thorax"">Thorax</a>: the chest region, just behind the head</li>
-<li><a href=""/wiki/Fish_measurement"" title=""Fish measurement"">Total length</a>: the length from the tip of the snout to the tip of the tail</li>
-<li><a href=""/wiki/Transverse_plane"" title=""Transverse plane"">Transverse</a>: crosswise</li>
+<li><a href=""https://en.wikipedia.org/wiki/Tessellation"" title=""Tessellation"">Tessellated</a>: marked with little checks or squares, like tiles</li>
+<li><a href=""https://en.wikipedia.org/wiki/Thorax"" title=""Thorax"">Thoracic</a>: pertaining to the chest</li>
+<li><a href=""https://en.wikipedia.org/wiki/Thorax"" title=""Thorax"">Thorax</a>: the chest region, just behind the head</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_measurement"" title=""Fish measurement"">Total length</a>: the length from the tip of the snout to the tip of the tail</li>
+<li><a href=""https://en.wikipedia.org/wiki/Transverse_plane"" title=""Transverse plane"">Transverse</a>: crosswise</li>
 <li>Trilobate: with three lobes</li>
 <li>Tricuspid: with three cusps or points</li>
 <li>Truncate: terminating abruptly, as if cut off square</li>
 <li>Trunk: the region of a fish between the head and tail, or the last gill slit and vent</li>
-<li><a href=""/wiki/Tubercle"" title=""Tubercle"">Tubercle</a>: a small, usually hard excrescence or lump</li>
+<li><a href=""https://en.wikipedia.org/wiki/Tubercle"" title=""Tubercle"">Tubercle</a>: a small, usually hard excrescence or lump</li>
 <li>Tubiform, tubuliform: resembling a tube</li>
-<li>Type locality: the location from which the <a href=""/wiki/Type_(zoology)"" class=""mw-redirect"" title=""Type (zoology)"">type</a> specimen was collected.</li></ul>
+<li>Type locality: the location from which the <a href=""https://en.wikipedia.org/wiki/Type_(zoology)"" class=""mw-redirect"" title=""Type (zoology)"">type</a> specimen was collected.</li></ul>
 <ul><li>Undulated: waved</li>
 <li>Urogenital papilla: a papilla through which the urinary waste and gametes leave the body</li></ul>
-<ul><li>Vent: the external opening of the alimentary canal, the <a href=""/wiki/Anus"" title=""Anus"">anus</a></li>
-<li><a href=""/wiki/Anatomical_terms_of_location#General_usage"" title=""Anatomical terms of location"">Ventral</a>: pertaining to the abdominal or lower surface</li>
-<li><a href=""/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Ventral fins</a>: paired fins behind or below the pectoral fins</li>
+<ul><li>Vent: the external opening of the alimentary canal, the <a href=""https://en.wikipedia.org/wiki/Anus"" title=""Anus"">anus</a></li>
+<li><a href=""https://en.wikipedia.org/wiki/Anatomical_terms_of_location#General_usage"" title=""Anatomical terms of location"">Ventral</a>: pertaining to the abdominal or lower surface</li>
+<li><a href=""https://en.wikipedia.org/wiki/Fish_anatomy#Fins"" title=""Fish anatomy"">Ventral fins</a>: paired fins behind or below the pectoral fins</li>
 <li>Vertical fins: fins on the median line of the body; the dorsal, anal, and caudal fins</li>
-<li><a href=""/wiki/Vestigial_structure"" class=""mw-redirect"" title=""Vestigial structure"">Vestigial</a>: reduced, or very poorly developed</li>
+<li><a href=""https://en.wikipedia.org/wiki/Vestigial_structure"" class=""mw-redirect"" title=""Vestigial structure"">Vestigial</a>: reduced, or very poorly developed</li>
 <li>Villiform teeth: small, slender teeth forming velvety bands</li>
-<li><a href=""/wiki/Vomer_bone"" class=""mw-redirect"" title=""Vomer bone"">Vomer</a>: a bone forming the front part of the roof of the mouth</li>
+<li><a href=""https://en.wikipedia.org/wiki/Vomer_bone"" class=""mw-redirect"" title=""Vomer bone"">Vomer</a>: a bone forming the front part of the roof of the mouth</li>
 <li>Vomerine teeth: teeth on the vomer (see above)</li></ul>
-<ul><li><a href=""/wiki/Weberian_apparatus"" title=""Weberian apparatus"">Weberian apparatus</a>: An adaptation found in <a href=""/wiki/Ostariophysi"" title=""Ostariophysi"">Ostariophysi</a> to improve hearing; includes the Weberian ossicles.</li></ul>
+<ul><li><a href=""https://en.wikipedia.org/wiki/Weberian_apparatus"" title=""Weberian apparatus"">Weberian apparatus</a>: An adaptation found in <a href=""https://en.wikipedia.org/wiki/Ostariophysi"" title=""Ostariophysi"">Ostariophysi</a> to improve hearing; includes the Weberian ossicles.</li></ul>
